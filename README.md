@@ -1,2 +1,2 @@
 # nber.org-Orange-Book-Data
-This is a csv copy of all clean data files from nber.org 
+This is a csv copy of all clean data files from nber.org.  Professor Heidi Williams cleaned all data from 1986 to 2016.  This is more data for the Orange Book than we can get from https://www.fda.gov/drugs/drug-approvals-and-databases/orange-book-data-files.  There is some overlap of data, so we might want to keep everything that is in the fda.gov and orange book files, and add to it with entries that nber.org.
